@@ -9,7 +9,8 @@ Develop and publish a personal website using HTML and an external CSS file. Demo
 
 ## URL:
 
-[Site](index.html)
+<p>Site:     <a href = "https://savexanthous.github.io/Assignment-1/">https://savexanthous.github.io/Assignment-1/</a></p>
+<p>Git Hub:  <a href = "https://github.com/SaveXanthous/Assignment-1">https://github.com/SaveXanthous/Assignment-1</a></p>
 
 ---
 
